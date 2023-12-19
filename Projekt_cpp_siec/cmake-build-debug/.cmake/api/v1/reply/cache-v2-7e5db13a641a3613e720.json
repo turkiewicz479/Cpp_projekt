@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Szymon/Documents/Programowanie AiR/ZPO/ZPO_zadania/Projekt_cpp/Projekt_cpp_siec/cmake-build-debug"
+			"value" : "c:/Users/Palad/OneDrive/Dokumenty/Air_Studia/Semestr 3/ZPO/ZPO/projekt/Cpp_projekt/Projekt_cpp_siec/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Szymon/Documents/Programowanie AiR/ZPO/ZPO_zadania/Projekt_cpp/Projekt_cpp_siec/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Palad/OneDrive/Dokumenty/Air_Studia/Semestr 3/ZPO/ZPO/projekt/Cpp_projekt/Projekt_cpp_siec/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -626,18 +626,6 @@
 			"value" : ""
 		},
 		{
-			"name" : "CMAKE_GNUtoMS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Convert GNU import libraries to MS format (requires Visual Studio)"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
 			"name" : "CMAKE_HOME_DIRECTORY",
 			"properties" : 
 			[
@@ -647,7 +635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Szymon/Documents/Programowanie AiR/ZPO/ZPO_zadania/Projekt_cpp/Projekt_cpp_siec"
+			"value" : "C:/Users/Palad/OneDrive/Dokumenty/Air_Studia/Semestr 3/ZPO/ZPO/projekt/Cpp_projekt/Projekt_cpp_siec"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1263,7 +1251,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Szymon/Documents/Programowanie AiR/ZPO/ZPO_zadania/Projekt_cpp/Projekt_cpp_siec/cmake-build-debug"
+			"value" : "C:/Users/Palad/OneDrive/Dokumenty/Air_Studia/Semestr 3/ZPO/ZPO/projekt/Cpp_projekt/Projekt_cpp_siec/cmake-build-debug"
 		},
 		{
 			"name" : "Projekt_cpp_siec_IS_TOP_LEVEL",
@@ -1287,7 +1275,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Szymon/Documents/Programowanie AiR/ZPO/ZPO_zadania/Projekt_cpp/Projekt_cpp_siec"
+			"value" : "C:/Users/Palad/OneDrive/Dokumenty/Air_Studia/Semestr 3/ZPO/ZPO/projekt/Cpp_projekt/Projekt_cpp_siec"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

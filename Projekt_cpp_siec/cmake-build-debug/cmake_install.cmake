@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Szymon/Documents/Programowanie AiR/ZPO/ZPO_zadania/Projekt_cpp/Projekt_cpp_siec
+# Install script for directory: C:/Users/Palad/OneDrive/Dokumenty/Air_Studia/Semestr 3/ZPO/ZPO/projekt/Cpp_projekt/Projekt_cpp_siec
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Szymon/Documents/Programowanie AiR/ZPO/ZPO_zadania/Projekt_cpp/Projekt_cpp_siec/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Palad/OneDrive/Dokumenty/Air_Studia/Semestr 3/ZPO/ZPO/projekt/Cpp_projekt/Projekt_cpp_siec/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
