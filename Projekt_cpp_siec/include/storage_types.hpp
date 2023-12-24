@@ -1,6 +1,8 @@
 //
 // Created by Szymon on 30.11.2023.
 //
+#ifndef NETSIM_STORAGE_TYPES_HPP
+#define NETSIM_STORAGE_TYPES_HPP
 
 #include <list>
 #include "package.hpp"
