@@ -16,6 +16,8 @@ set(SOURCE_FILES
         src/package.cpp
         src/storage_types.cpp
         src/factory.cpp
+        src/reports.cpp
+        src/simulation.cpp
         )
 
 add_executable(Projekt_cpp_siec ${SOURCE_FILES} main.cpp)
